@@ -20,12 +20,6 @@ import { LoadingComponent } from './loading/loading.component';
 import { ShareModule } from './share.module';
 import { AngularFireFunctionsModule , FunctionsRegionToken} from '@angular/fire/functions'
 export const firebaseConfig = {
-  apiKey: 'AIzaSyDYsv6gGquSn7XqtEVwiJsCijgLmtq4kGM',
-  authDomain: 'socialapp-201c9.firebaseapp.com',
-  databaseURL: 'https://socialapp-201c9.firebaseio.com',
-  projectId: 'socialapp-201c9',
-  storageBucket: 'socialapp-201c9.appspot.com',
-  messagingSenderId: '930663781805'
 };
 @NgModule({
   declarations: [AppComponent],
