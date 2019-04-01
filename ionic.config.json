@@ -1,0 +1,7 @@
+{
+  "name": "socMedia",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
